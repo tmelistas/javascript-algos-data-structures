@@ -1,0 +1,21 @@
+Big O Notation
+
+Objectives 
+- Motivate the need for something like Big o Notation
+- Describe what Big O Notation is
+- Simplify Big O Expressions
+- Define "time complexity" and "space complexity"
+- Evaluate the time complexity and space complexity
+- Describe what a logarithm is
+
+
+What is the idea? 
+Imagine we have multiple implementations of the same function. How can we determine which one is the "best" ?
+
+Eg. "Write a function that accepts a string input and returns a reversed copy"
+
+Who Cares ?
+It's important to have a precise vobabulary to talk about how our code performs
+Useful for duscussing trade-offs between different approaches
+When your code slows down or crashes, identifying parts of the code that are inefficient can help us find pain points in our applications
+Less important: it comes up in intervies!
